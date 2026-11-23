@@ -8,6 +8,7 @@ package com.wild_tour.dto;
 	    private int user_id;
 	    private String tourist_name;
 	    private String item_type;
+	    
 	    private String item_name;
 	    private String item_image;
 	    private int num_persons;
